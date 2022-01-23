@@ -4,9 +4,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:paddingStart="12dp"
     android:paddingEnd="12dp"
+    android:layout_margin="12dp"
     android:translationZ="5dp"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="wrap_content">
 
     <TextView
         android:id="@+id/tvContestDescription"

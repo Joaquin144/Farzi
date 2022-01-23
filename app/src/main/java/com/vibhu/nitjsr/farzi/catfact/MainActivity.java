@@ -1,4 +1,4 @@
-package com.vibhu.nitjsr.farzi;
+package com.vibhu.nitjsr.farzi.catfact;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.widget.TextView;
 
-import java.util.List;
+import com.vibhu.nitjsr.farzi.R;
 
 import retrofit2.Call;
 import retrofit2.Callback;

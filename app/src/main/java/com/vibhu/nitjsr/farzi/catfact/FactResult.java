@@ -1,4 +1,4 @@
-package com.vibhu.nitjsr.farzi;
+package com.vibhu.nitjsr.farzi.catfact;
 
 import com.google.gson.annotations.SerializedName;
 

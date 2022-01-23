@@ -1,4 +1,4 @@
-package com.vibhu.nitjsr.farzi;
+package com.vibhu.nitjsr.farzi.catfact;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;

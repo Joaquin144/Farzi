@@ -1,6 +1,4 @@
-package com.vibhu.nitjsr.farzi;
-
-import java.util.List;
+package com.vibhu.nitjsr.farzi.catfact;
 
 import retrofit2.Call;
 import retrofit2.http.GET;
